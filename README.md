@@ -33,3 +33,5 @@ Example:
 
    Can detect Arabian Number or Chinese Number. 
    And spaghetti code. So maybe don't mind it.
+By the way, you also need to write some prompt file for GPT too. 
+System and Prompt file. Default is system.txt and assistant.txt
